@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SessionLocationBuilder xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <InitialAngle>3.9</InitialAngle>
+  <DistFromCenter>103</DistFromCenter>
+  <OrbitalSpeed>-0.002</OrbitalSpeed>
+  <OrbitHeight>8</OrbitHeight>
+  <IsVisible>true</IsVisible>
+  <CursorDetectRadius>12</CursorDetectRadius>
+  <Name>B1 Ectobiology</Name>
+  <Description>Ectobiology labs are laboratories located in one of the many asteroids in the Veil, and presumably exist in each session of Sburb. They are accessed through a number of transportalizers across the seperate Planets.  They contain everything needed to preform Ectobiology, including a Sburb computer terminal, as in unscratched sessions one player will have to take care of actually creating themselves and their teammates through ectobiology.</Description>
+  <PrimaryColor X="138" Y="138" Z="138" W="255" />
+  <SecondaryColor X="96" Y="96" Z="96" W="255" />
+  <Image>
+    <ImagePath>.//Incipisphere//Other//B1 Ectobiology.png</ImagePath>
+    <Position />
+    <Rotation />
+    <Scale X="6" Y="6" />
+    <Color X="255" Y="255" Z="255" W="255" />
+  </Image>
+</SessionLocationBuilder>

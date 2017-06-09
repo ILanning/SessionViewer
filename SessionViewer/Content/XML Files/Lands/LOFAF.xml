@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PlayerWorldBuilder xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <IsVisible>true</IsVisible>
+  <CursorDetectRadius>15</CursorDetectRadius>
+  <Name>Land of Frost and Frogs</Name>
+  <Description>The Land of Frost and Frogs (abbreviated as LOFAF) is Jade Harley's planet in the Medium.-The consorts inhabiting the planet are blue Iguanas. The denizen of the planet is Echidna.</Description>
+  <GateLevel>0</GateLevel>
+  <PlayerName>Jade</PlayerName>
+  <PlayerEntered>false</PlayerEntered>
+  <PrimaryColor X="74" Y="201" Z="37" W="255" />
+  <SecondaryColor X="175" Y="255" Z="100" W="255" />
+  <Image>
+    <ImagePath>.//Incipisphere//Lands//LOFAF.png</ImagePath>
+    <Position />
+    <Rotation />
+    <Scale X="10" Y="10" />
+    <Color X="255" Y="255" Z="255" W="255" />
+  </Image>
+</PlayerWorldBuilder>

@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SessionBuilder xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <NullSession>false</NullSession>
+  <VoidSession>false</VoidSession>
+  <Scratched>false</Scratched>
+  <Description>This session is only here to test the limits of the "game".  Anything beyond this is probably just going to break things.  You are plently welcome to try, though.  Please try to report any bugs you happen to find, or crashes you can easily induce.</Description>
+  <Skaia>.//XML Files//Constants//Skaia Void.xml</Skaia>
+  <Prospit>.//XML Files//Constants//Prospit.xml</Prospit>
+  <Derse>.//XML Files//Constants//Derse.xml</Derse>
+  <Lands>
+    <string>.//XML Files//Lands//LOPAH.xml</string>
+    <string>.//XML Files//Lands//LOTAF.xml</string>
+    <string>.//XML Files//Lands//LOTAM.xml</string>
+    <string>.//XML Files//Lands//LOSAZ.xml</string>
+    <string>.//XML Files//Lands//LOMAT.xml</string>
+    <string>.//XML Files//Lands//LORAF.xml</string>
+    <string>.//XML Files//Lands//LOCAS.xml</string>
+    <string>.//XML Files//Lands//LOQAM.xml</string>
+    <string>.//XML Files//Lands//LOLCAT.xml</string>
+    <string>.//XML Files//Lands//LOWAA.xml</string>
+    <string>.//XML Files//Lands//LODAG.xml</string>
+    <string>.//XML Files//Lands//LOBAF.xml</string>
+    <string>.//XML Files//Lands//LOPAH.xml</string>
+    <string>.//XML Files//Lands//LOTAF.xml</string>
+    <string>.//XML Files//Lands//LOTAM.xml</string>
+    <string>.//XML Files//Lands//LOSAZ.xml</string>
+    <string>.//XML Files//Lands//LOMAT.xml</string>
+    <string>.//XML Files//Lands//LORAF.xml</string>
+    <string>.//XML Files//Lands//LOCAS.xml</string>
+    <string>.//XML Files//Lands//LOQAM.xml</string>
+    <string>.//XML Files//Lands//LOLCAT.xml</string>
+    <string>.//XML Files//Lands//LOWAA.xml</string>
+    <string>.//XML Files//Lands//LODAG.xml</string>
+    <string>.//XML Files//Lands//LOBAF.xml</string>
+    <string>.//XML Files//Lands//LOPAH.xml</string>
+    <string>.//XML Files//Lands//LOTAF.xml</string>
+    <string>.//XML Files//Lands//LOTAM.xml</string>
+    <string>.//XML Files//Lands//LOSAZ.xml</string>
+    <string>.//XML Files//Lands//LOMAT.xml</string>
+    <string>.//XML Files//Lands//LORAF.xml</string>
+    <string>.//XML Files//Lands//LOCAS.xml</string>
+    <string>.//XML Files//Lands//LOQAM.xml</string>
+    <string>.//XML Files//Lands//LOLCAT.xml</string>
+    <string>.//XML Files//Lands//LOWAA.xml</string>
+    <string>.//XML Files//Lands//LODAG.xml</string>
+    <string>.//XML Files//Lands//LOBAF.xml</string>
+    <string>.//XML Files//Lands//LOPAH.xml</string>
+    <string>.//XML Files//Lands//LOTAF.xml</string>
+    <string>.//XML Files//Lands//LOTAM.xml</string>
+    <string>.//XML Files//Lands//LOSAZ.xml</string>
+    <string>.//XML Files//Lands//LOMAT.xml</string>
+    <string>.//XML Files//Lands//LORAF.xml</string>
+    <string>.//XML Files//Lands//LOCAS.xml</string>
+    <string>.//XML Files//Lands//LOQAM.xml</string>
+    <string>.//XML Files//Lands//LOLCAT.xml</string>
+    <string>.//XML Files//Lands//LOWAA.xml</string>
+    <string>.//XML Files//Lands//LODAG.xml</string>
+    <string>.//XML Files//Lands//LOBAF.xml</string>
+  </Lands>
+  <GenericMeteors>
+	<string>.//XML Files//Meteors//Meteor 1.xml</string>
+	<string>.//XML Files//Meteors//Meteor 2.xml</string>
+	<string>.//XML Files//Meteors//Meteor 3.xml</string>
+	<string>.//XML Files//Meteors//Meteor 4.xml</string>
+	<string>.//XML Files//Meteors//Meteor 5.xml</string>
+  </GenericMeteors>
+  <SpecialMeteors>
+  </SpecialMeteors>
+  <Timeline>
+    <TimelineEvent>
+      <PlanetName>Land of Pulse and Haze</PlanetName>
+      <IsVisible>true</IsVisible>
+      <PlayerEntry>true</PlayerEntry>
+      <Message>Karkat has entered the game.</Message>
+      <FilePath>.//XML Files//Constants//Skaia Void.xml</FilePath>
+    </TimelineEvent>
+    <TimelineEvent>
+      <PlanetName>Land of Thought and Flow</PlanetName>
+      <IsVisible>true</IsVisible>
+      <PlayerEntry>true</PlayerEntry>
+      <Message>Terezi has entered the game.</Message>
+      <FilePath>.//XML Files//Constants//Skaia Void.xml</FilePath>
+    </TimelineEvent>
+    <TimelineEvent>
+      <PlanetName>Land of Tents and Mirth</PlanetName>
+      <IsVisible>true</IsVisible>
+      <PlayerEntry>true</PlayerEntry>
+      <Message>Gamzee has entered the game.</Message>
+      <FilePath>.//XML Files//Constants//Skaia Void.xml</FilePath>
+    </TimelineEvent>
+    <TimelineEvent>
+      <PlanetName>Land of Caves and Silence</PlanetName>
+      <IsVisible>true</IsVisible>
+      <PlayerEntry>true</PlayerEntry>
+      <Message>Equius has entered the game.</Message>
+      <FilePath>.//XML Files//Constants//Skaia Void.xml</FilePath>
+    </TimelineEvent>
+    <TimelineEvent>
+      <PlanetName>Land of Quartz and Melody</PlanetName>
+      <IsVisible>true</IsVisible>
+      <PlayerEntry>true</PlayerEntry>
+      <Message>Aradia has entered the game.</Message>
+      <FilePath>.//XML Files//Constants//Skaia Void.xml</FilePath>
+    </TimelineEvent>
+    <TimelineEvent>
+      <PlanetName>Land of Little Cubes and Tea</PlanetName>
+      <IsVisible>true</IsVisible>
+      <PlayerEntry>true</PlayerEntry>
+      <Message>Nepeta has entered the game.</Message>
+      <FilePath>.//XML Files//Constants//Skaia Void.xml</FilePath>
+    </TimelineEvent>
+    <TimelineEvent>
+      <PlanetName>Land of Sand and Zephyr</PlanetName>
+      <IsVisible>true</IsVisible>
+      <PlayerEntry>true</PlayerEntry>
+      <Message>Tavros has entered the game.</Message>
+      <FilePath>.//XML Files//Constants//Skaia Void.xml</FilePath>
+    </TimelineEvent>
+    <TimelineEvent>
+      <PlanetName>Land of Maps and Treasure</PlanetName>
+      <IsVisible>true</IsVisible>
+      <PlayerEntry>true</PlayerEntry>
+      <Message>Vriska has entered the game.</Message>
+      <FilePath>.//XML Files//Constants//Skaia Void.xml</FilePath>
+    </TimelineEvent>
+    <TimelineEvent>
+      <PlanetName>Land of Rays and Frogs</PlanetName>
+      <IsVisible>true</IsVisible>
+      <PlayerEntry>true</PlayerEntry>
+      <Message>Kanaya has entered the game.</Message>
+      <FilePath>.//XML Files//Constants//Skaia Void.xml</FilePath>
+    </TimelineEvent>
+    <TimelineEvent>
+      <PlanetName>Land of Wrath and Angels</PlanetName>
+      <IsVisible>true</IsVisible>
+      <PlayerEntry>true</PlayerEntry>
+      <Message>Eridan has entered the game.</Message>
+      <FilePath>.//XML Files//Constants//Skaia Void.xml</FilePath>
+    </TimelineEvent>
+    <TimelineEvent>
+      <PlanetName>Land of Dew and Glass</PlanetName>
+      <IsVisible>true</IsVisible>
+      <PlayerEntry>true</PlayerEntry>
+      <Message>Feferi has entered the game.</Message>
+      <FilePath>.//XML Files//Constants//Skaia Void.xml</FilePath>
+    </TimelineEvent>
+    <TimelineEvent>
+      <PlanetName>Land of Brains and Fire</PlanetName>
+      <IsVisible>true</IsVisible>
+      <PlayerEntry>true</PlayerEntry>
+      <Message>Sollux has entered the game.</Message>
+      <FilePath>.//XML Files//Constants//Skaia Void.xml</FilePath>
+    </TimelineEvent>
+  </Timeline>
+</SessionBuilder>

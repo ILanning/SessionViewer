@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PlayerWorldBuilder xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <IsVisible>true</IsVisible>
+  <CursorDetectRadius>15</CursorDetectRadius>
+  <Name>Land of Wind and Shade</Name>
+  <Description>The Land of Wind and Shade (abbreviated as LOWAS) is John Egbert's planet in the Medium. He got there through his first gate.
+
+John's house is located at the top of a large outcropping, rising above the clouds. LOWAS is inhabited by the Salamander consorts, and its denizen is Typheus. The Land of Wind and Shade corresponds to the first planet in Can Town as drawn by Wayward Vagabond.
+
+Terrain
+The Land of Wind and Shade is made of dark blue, pulsating, glowing rocks. The land is split by streams of oil.
+This oil forms lakes and oceans. There are sharp 'mountains' that are made of the more 'normal' brown rocks. The plant life consists of turquoise mushrooms and trees of various sizes. There are no leaves on the trees, and the salamanders farm the local mushrooms for food.
+Underground is a network of pipes known as the Parcel Pyxis system that are used by the land's inhabitants to transport items. Many pipes can be seen sticking out of the ground.
+
+There are also frog statues called "cherished idols" which have recently been vandalized by the underlings (specifically the imps).
+
+Inhabitants
+This land's original inhabitants are the Salamanders. Numerous fireflies fly in the sky, trapped under the clouds by The Slumbering One.
+After John's entry to the medium, harlequin-prototyped underlings such as Shale Imps came to the Land, and later many variations of these imps emerged, prototyped with other objects. Giclopes and Basilisks have appeared as well.
+
+History
+Once, the amphibians lived peacefully in the Land, but as John started his adventure the Dersite Agents and John's monstrous denizen (referred to as The Slumbering One) polluted the Land of Wind and Shade with black sludge and trapped the fireflies under the clouds. Since then, Dersite underlings have continued to cause chaos throughout the Land.
+After John's arrival, a village in the Land was attacked by three imps, two Tar Basilisks and a Copper Giclops. John and Grandpa Harley defended the village.
+
+When John's Dad's car was dropped to the Land it was heavily damaged by the fall. An agent known as the Authority Regulator declared it parked illegally and confiscated the package and CDs inside. The Salamanders have also found and utilized many of the other items that had been dropped to the planet by John.
+During his battle with Dave's Bro and Davesprite on LOWAS, Jack Noir set fire to the oil rivers, which quickly spread across the entire planet. John eventually managed to put them out by doing The Windy Thing.
+Jade shrinks the planet, along with the others, with her God Tier powers and takes them beyond the reach of the Scratch.</Description>
+  <GateLevel>0</GateLevel>
+  <PlayerName>John</PlayerName>
+  <PlayerEntered>false</PlayerEntered>
+  <PrimaryColor X="7" Y="21" Z="205" W="255" />
+  <SecondaryColor X="100" Y="124" Z="255" W="255" />
+  <Image>
+    <ImagePath>.//Incipisphere//Lands//LOWAS.png</ImagePath>
+    <Position />
+    <Rotation />
+    <Scale X="10" Y="10" />
+    <Color X="255" Y="255" Z="255" W="255" />
+  </Image>
+</PlayerWorldBuilder>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PlayerWorldBuilder xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <IsVisible>true</IsVisible>
+  <CursorDetectRadius>15</CursorDetectRadius>
+  <Name>Land of Light and Rain</Name>
+  <Description>[Description]</Description>
+  <GateLevel>0</GateLevel>
+  <PlayerName>Rose</PlayerName>
+  <PlayerEntered>false</PlayerEntered>
+  <PrimaryColor X="181" Y="54" Z="218" W="255" />
+  <SecondaryColor X="255" Y="150" Z="255" W="255" />
+  <Image>
+    <ImagePath>.//Incipisphere//Lands//LOLAR.png</ImagePath>
+    <Position />
+    <Rotation />
+    <Scale X="10" Y="10" />
+    <Color X="255" Y="255" Z="255" W="255" />
+  </Image>
+</PlayerWorldBuilder>

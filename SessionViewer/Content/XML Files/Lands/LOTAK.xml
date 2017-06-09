@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PlayerWorldBuilder xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>Land of Tombs and Krypton</Name>
+  <Description>[Description]</Description>
+  <GateLevel>0</GateLevel>
+  <PlayerName>Dirk</PlayerName>
+  <PlayerEntered>false</PlayerEntered>
+  <PrimaryColor>
+    <X>242</X>
+    <Y>164</Y>
+    <Z>0</Z>
+    <W>255</W>
+  </PrimaryColor>
+  <SecondaryColor>
+    <X>255</X>
+    <Y>200</Y>
+    <Z>100</Z>
+    <W>255</W>
+  </SecondaryColor>
+  <Image>
+    <ImagePath>.//Incipisphere//Lands//LOTAK.png</ImagePath>
+    <Position>
+      <X>0</X>
+      <Y>0</Y>
+      <Z>0</Z>
+    </Position>
+    <Rotation>
+      <X>0</X>
+      <Y>0</Y>
+      <Z>0</Z>
+    </Rotation>
+    <Scale>
+      <X>10</X>
+      <Y>10</Y>
+    </Scale>
+    <Color>
+      <X>255</X>
+      <Y>255</Y>
+      <Z>255</Z>
+      <W>255</W>
+    </Color>
+  </Image>
+</PlayerWorldBuilder>

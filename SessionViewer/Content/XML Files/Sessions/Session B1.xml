@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SessionBuilder xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <NullSession>true</NullSession>
+  <VoidSession>false</VoidSession>
+  <Scratched>true</Scratched>
+  <Description>The Human SBURB Beta session.</Description>
+  <Skaia>.//XML Files//Constants//Skaia Void.xml</Skaia>
+  <Prospit>.//XML Files//Constants//Prospit.xml</Prospit>
+  <Derse>.//XML Files//Constants//Derse.xml</Derse>
+  <Lands>
+    <string>.//XML Files//Lands//LOWAS.xml</string>
+    <string>.//XML Files//Lands//LOLAR.xml</string>
+    <string>.//XML Files//Lands//LOHAC.xml</string>
+    <string>.//XML Files//Lands//LOFAF.xml</string>
+  </Lands>
+  <GenericMeteors>
+    <string>.//XML Files//Meteors//Meteor 1.xml</string>
+    <string>.//XML Files//Meteors//Meteor 2.xml</string>
+    <string>.//XML Files//Meteors//Meteor 3.xml</string>
+    <string>.//XML Files//Meteors//Meteor 4.xml</string>
+    <string>.//XML Files//Meteors//Meteor 5.xml</string>
+  </GenericMeteors>
+  <OtherLocations>
+    <string>.//XML Files//Meteors//B1 Ectobiology.xml</string>
+  </OtherLocations>
+  <Timeline>
+    <TimelineEvent>
+      <Target>Land of Wind and Shade</Target>
+      <EventType>PlayerEntry</EventType>
+      <DisplayedText>John has entered the game.</DisplayedText>
+      <Arguments>.//XML Files//Constants//Skaia P1.xml</Arguments>
+      <IsVisible>true</IsVisible>
+    </TimelineEvent>
+    <TimelineEvent>
+      <Target>Land of Light and Rain</Target>
+      <EventType>PlayerEntry</EventType>
+      <DisplayedText>Rose has entered the game.</DisplayedText>
+      <Arguments>.//XML Files//Constants//Skaia P2.xml</Arguments>
+      <IsVisible>true</IsVisible>
+    </TimelineEvent>
+    <TimelineEvent>
+      <Target>Land of Heat and Clockwork</Target>
+      <EventType>PlayerEntry</EventType>
+      <DisplayedText>Dave has entered the game.</DisplayedText>
+      <Arguments>.//XML Files//Constants//Skaia P3.xml</Arguments>
+      <IsVisible>true</IsVisible>
+    </TimelineEvent>
+    <TimelineEvent>
+      <Target>Skaia</Target>
+      <EventType>SetReckoning</EventType>
+      <DisplayedText>The Reckoning has begun.</DisplayedText>
+      <IsVisible>true</IsVisible>
+    </TimelineEvent>
+    <TimelineEvent>
+      <Target>Prospit</Target>
+      <EventType>Reload</EventType>
+      <DisplayedText>Prospit has been destroyed.</DisplayedText>
+      <Arguments>.//XML Files//Constants//Prospit Post Jack.xml</Arguments>
+      <IsVisible>false</IsVisible>
+    </TimelineEvent>
+    <TimelineEvent>
+      <Target>Skaia</Target>
+      <EventType>Reload</EventType>
+      <DisplayedText>The Battlefield has taken damage.</DisplayedText>
+      <Arguments>.//XML Files//Constants//Skaia P3 Impacted.xml</Arguments>
+      <IsVisible>true</IsVisible>
+    </TimelineEvent>
+    <TimelineEvent>
+      <Target>Land of Frost and Frogs</Target>
+      <EventType>PlayerEntry</EventType>
+      <DisplayedText>Jade has entered the game.</DisplayedText>
+      <Arguments>.//XML Files//Constants//Skaia P4 Impacted.xml</Arguments>
+      <IsVisible>true</IsVisible>
+    </TimelineEvent>
+    <TimelineEvent>
+      <Target>Skaia</Target>
+      <EventType>Reload</EventType>
+      <DisplayedText>The tumor has been removed from the Battlefield.</DisplayedText>
+      <Arguments>.//XML Files//Constants//Skaia P4 Detumored.xml</Arguments>
+      <IsVisible>true</IsVisible>
+    </TimelineEvent>
+    <TimelineEvent>
+      <Target>Derse</Target>
+      <EventType>Reload</EventType>
+      <DisplayedText>The moon of Derse has been severed.</DisplayedText>
+      <Arguments>.//XML Files//Constants//Derse Post Dave.xml</Arguments>
+      <IsVisible>true</IsVisible>
+    </TimelineEvent>
+    <TimelineEvent>
+      <Target>Derse</Target>
+      <EventType>Reload</EventType>
+      <DisplayedText>The moon of Derse has been severed.</DisplayedText>
+      <Arguments>.//XML Files//Constants//Derse Post Dave.xml</Arguments>
+      <IsVisible>true</IsVisible>
+    </TimelineEvent>
+    <TimelineEvent>
+      <Target>Land of Wind and Shade</Target>
+      <EventType>SetVisibility</EventType>
+      <Arguments>false</Arguments>
+    </TimelineEvent>
+    <TimelineEvent>
+      <Target>Land of Heat and Clockwork</Target>
+      <EventType>SetVisibility</EventType>
+      <Arguments>false</Arguments>
+    </TimelineEvent>
+    <TimelineEvent>
+      <Target>Land of Light and Rain</Target>
+      <EventType>SetVisibility</EventType>
+      <Arguments>false</Arguments>
+    </TimelineEvent>
+    <TimelineEvent>
+      <Target>Land of Frost and Frogs</Target>
+      <EventType>SetVisibility</EventType>
+      <Arguments>false</Arguments>
+    </TimelineEvent>
+    <TimelineEvent>
+      <Target>Session</Target>
+      <EventType>SetVisibility</EventType>
+      <DisplayedText>The LOWAS, LOLAR, LOHAC, and LOFAF have been removed from the session.</DisplayedText>
+      <IsVisible>true</IsVisible>
+    </TimelineEvent>
+  </Timeline>
+</SessionBuilder>

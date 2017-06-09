@@ -1,0 +1,541 @@
+
+#----------------------------- Global Properties ----------------------------#
+
+/outputDir:bin/$(Platform)
+/intermediateDir:obj/$(Platform)
+/platform:DesktopGL
+/config:
+/profile:Reach
+/compress:False
+
+#-------------------------------- References --------------------------------#
+
+
+#---------------------------------- Content ---------------------------------#
+
+#begin Fonts/Carima.spritefont
+/importer:FontDescriptionImporter
+/processor:FontDescriptionProcessor
+/processorParam:PremultiplyAlpha=False
+/processorParam:TextureFormat=Compressed
+/build:Fonts/Carima.spritefont
+
+#begin Fonts/Consolas.spritefont
+/importer:FontDescriptionImporter
+/processor:FontDescriptionProcessor
+/processorParam:PremultiplyAlpha=False
+/processorParam:TextureFormat=Compressed
+/build:Fonts/Consolas.spritefont
+
+#begin Fonts/DefaultFont.spritefont
+/importer:FontDescriptionImporter
+/processor:FontDescriptionProcessor
+/processorParam:PremultiplyAlpha=False
+/processorParam:TextureFormat=Compressed
+/build:Fonts/DefaultFont.spritefont
+
+#begin Fonts/ErrorFont.spritefont
+/importer:FontDescriptionImporter
+/processor:FontDescriptionProcessor
+/processorParam:PremultiplyAlpha=True
+/processorParam:TextureFormat=Compressed
+/build:Fonts/ErrorFont.spritefont
+
+#begin Incipisphere/Lands/LOCAH.png
+/copy:Incipisphere/Lands/LOCAH.png
+
+#begin Incipisphere/Lands/LOFAF w House.png
+/copy:Incipisphere/Lands/LOFAF w House.png
+
+#begin Incipisphere/Lands/LOFAF.png
+/copy:Incipisphere/Lands/LOFAF.png
+
+#begin Incipisphere/Lands/LOHAC.png
+/copy:Incipisphere/Lands/LOHAC.png
+
+#begin Incipisphere/Lands/LOLAR w House.png
+/copy:Incipisphere/Lands/LOLAR w House.png
+
+#begin Incipisphere/Lands/LOLAR.png
+/copy:Incipisphere/Lands/LOLAR.png
+
+#begin Incipisphere/Lands/LOMAX.png
+/copy:Incipisphere/Lands/LOMAX.png
+
+#begin Incipisphere/Lands/LOPAN.png
+/copy:Incipisphere/Lands/LOPAN.png
+
+#begin Incipisphere/Lands/LOTAK.png
+/copy:Incipisphere/Lands/LOTAK.png
+
+#begin Incipisphere/Lands/LOWAS Burning.png
+/copy:Incipisphere/Lands/LOWAS Burning.png
+
+#begin Incipisphere/Lands/LOWAS w House.png
+/copy:Incipisphere/Lands/LOWAS w House.png
+
+#begin Incipisphere/Lands/LOWAS.png
+/copy:Incipisphere/Lands/LOWAS.png
+
+#begin Incipisphere/Lands/Unknown.png
+/copy:Incipisphere/Lands/Unknown.png
+
+#begin Incipisphere/Other/9RnlX.png
+/copy:Incipisphere/Other/9RnlX.png
+
+#begin Incipisphere/Other/A2 Ectobiology.png
+/copy:Incipisphere/Other/A2 Ectobiology.png
+
+#begin Incipisphere/Other/B1 Ectobiology.png
+/copy:Incipisphere/Other/B1 Ectobiology.png
+
+#begin Incipisphere/Other/Frog Temple.png
+/copy:Incipisphere/Other/Frog Temple.png
+
+#begin Incipisphere/Other/God Frog Arm.png
+/copy:Incipisphere/Other/God Frog Arm.png
+
+#begin Incipisphere/Other/Meteor 1 Blank.png
+/copy:Incipisphere/Other/Meteor 1 Blank.png
+
+#begin Incipisphere/Other/Meteor 1 Buildings Back.png
+/copy:Incipisphere/Other/Meteor 1 Buildings Back.png
+
+#begin Incipisphere/Other/Meteor 1 Buildings Front.png
+/copy:Incipisphere/Other/Meteor 1 Buildings Front.png
+
+#begin Incipisphere/Other/Meteor 1.png
+/copy:Incipisphere/Other/Meteor 1.png
+
+#begin Incipisphere/Other/Meteor 2 Blank.png
+/copy:Incipisphere/Other/Meteor 2 Blank.png
+
+#begin Incipisphere/Other/Meteor 2 Buildings Back.png
+/copy:Incipisphere/Other/Meteor 2 Buildings Back.png
+
+#begin Incipisphere/Other/Meteor 2 Buildings Front.png
+/copy:Incipisphere/Other/Meteor 2 Buildings Front.png
+
+#begin Incipisphere/Other/Meteor 2.png
+/copy:Incipisphere/Other/Meteor 2.png
+
+#begin Incipisphere/Other/Meteor 3 Blank.png
+/copy:Incipisphere/Other/Meteor 3 Blank.png
+
+#begin Incipisphere/Other/Meteor 3 Buildings Back.png
+/copy:Incipisphere/Other/Meteor 3 Buildings Back.png
+
+#begin Incipisphere/Other/Meteor 3 Buildings Front.png
+/copy:Incipisphere/Other/Meteor 3 Buildings Front.png
+
+#begin Incipisphere/Other/Meteor 3.png
+/copy:Incipisphere/Other/Meteor 3.png
+
+#begin Incipisphere/Other/Meteor 4 Blank.png
+/copy:Incipisphere/Other/Meteor 4 Blank.png
+
+#begin Incipisphere/Other/Meteor 4 Buildings Back.png
+/copy:Incipisphere/Other/Meteor 4 Buildings Back.png
+
+#begin Incipisphere/Other/Meteor 4 Buildings Front.png
+/copy:Incipisphere/Other/Meteor 4 Buildings Front.png
+
+#begin Incipisphere/Other/Meteor 4.png
+/copy:Incipisphere/Other/Meteor 4.png
+
+#begin Incipisphere/Other/Meteor 5 Blank.png
+/copy:Incipisphere/Other/Meteor 5 Blank.png
+
+#begin Incipisphere/Other/Meteor 5 Buildings Back.png
+/copy:Incipisphere/Other/Meteor 5 Buildings Back.png
+
+#begin Incipisphere/Other/Meteor 5 Buildings Front.png
+/copy:Incipisphere/Other/Meteor 5 Buildings Front.png
+
+#begin Incipisphere/Other/Meteor 5.png
+/copy:Incipisphere/Other/Meteor 5.png
+
+#begin Incipisphere/Prospit and Derse/A2 Derse w Moon.jpg
+/copy:Incipisphere/Prospit and Derse/A2 Derse w Moon.jpg
+
+#begin Incipisphere/Prospit and Derse/A2 Prospit w Moon.jpg
+/copy:Incipisphere/Prospit and Derse/A2 Prospit w Moon.jpg
+
+#begin Incipisphere/Prospit and Derse/B1 Dead Prospit.png
+/copy:Incipisphere/Prospit and Derse/B1 Dead Prospit.png
+
+#begin Incipisphere/Prospit and Derse/B1 Derse Moon.png
+/copy:Incipisphere/Prospit and Derse/B1 Derse Moon.png
+
+#begin Incipisphere/Prospit and Derse/B1 Derse w Moon.png
+/copy:Incipisphere/Prospit and Derse/B1 Derse w Moon.png
+
+#begin Incipisphere/Prospit and Derse/B1 Derse.png
+/copy:Incipisphere/Prospit and Derse/B1 Derse.png
+
+#begin Incipisphere/Prospit and Derse/B1 Prospit Moon.png
+/copy:Incipisphere/Prospit and Derse/B1 Prospit Moon.png
+
+#begin Incipisphere/Prospit and Derse/B1 Prospit w Moon.png
+/copy:Incipisphere/Prospit and Derse/B1 Prospit w Moon.png
+
+#begin Incipisphere/Prospit and Derse/B1 Prospit.png
+/copy:Incipisphere/Prospit and Derse/B1 Prospit.png
+
+#begin Incipisphere/Prospit and Derse/B1 Severed Prospit Moon.png
+/copy:Incipisphere/Prospit and Derse/B1 Severed Prospit Moon.png
+
+#begin Incipisphere/Prospit and Derse/B2 Derse w Moon.png
+/copy:Incipisphere/Prospit and Derse/B2 Derse w Moon.png
+
+#begin Incipisphere/Prospit and Derse/B2 Prospit w Moon.png
+/copy:Incipisphere/Prospit and Derse/B2 Prospit w Moon.png
+
+#begin Incipisphere/Prospit and Derse/Cali- Derse w Moon.png
+/copy:Incipisphere/Prospit and Derse/Cali- Derse w Moon.png
+
+#begin Incipisphere/Prospit and Derse/Cali- Prospit w Moon.png
+/copy:Incipisphere/Prospit and Derse/Cali- Prospit w Moon.png
+
+#begin Incipisphere/Prospit and Derse/Derse Base w Moon.png
+/copy:Incipisphere/Prospit and Derse/Derse Base w Moon.png
+
+#begin Incipisphere/Prospit and Derse/Derse Chain.png
+/copy:Incipisphere/Prospit and Derse/Derse Chain.png
+
+#begin Incipisphere/Prospit and Derse/Prospit Base w Moon.png
+/copy:Incipisphere/Prospit and Derse/Prospit Base w Moon.png
+
+#begin Incipisphere/Prospit and Derse/Prospit Chain.png
+/copy:Incipisphere/Prospit and Derse/Prospit Chain.png
+
+#begin Incipisphere/Skaia/A2 Genesis Frog.bmp
+/copy:Incipisphere/Skaia/A2 Genesis Frog.bmp
+
+#begin Incipisphere/Skaia/A2 Genesis Frog.png
+/copy:Incipisphere/Skaia/A2 Genesis Frog.png
+
+#begin Incipisphere/Skaia/B2 Battlefield L4 post Tumor.png
+/copy:Incipisphere/Skaia/B2 Battlefield L4 post Tumor.png
+
+#begin Incipisphere/Skaia/Battlefield Level 1.png
+/copy:Incipisphere/Skaia/Battlefield Level 1.png
+
+#begin Incipisphere/Skaia/Battlefield Level 2.png
+/copy:Incipisphere/Skaia/Battlefield Level 2.png
+
+#begin Incipisphere/Skaia/Battlefield Level 3 Damaged.png
+/copy:Incipisphere/Skaia/Battlefield Level 3 Damaged.png
+
+#begin Incipisphere/Skaia/Battlefield Level 3.png
+/copy:Incipisphere/Skaia/Battlefield Level 3.png
+
+#begin Incipisphere/Skaia/Battlefield Level 4.png
+/copy:Incipisphere/Skaia/Battlefield Level 4.png
+
+#begin Incipisphere/Skaia/Battlefield Prospit Impact.png
+/copy:Incipisphere/Skaia/Battlefield Prospit Impact.png
+
+#begin Incipisphere/Skaia/Battlefield Red Miles.png
+/copy:Incipisphere/Skaia/Battlefield Red Miles.png
+
+#begin Incipisphere/Skaia/Battlefield Void.png
+/copy:Incipisphere/Skaia/Battlefield Void.png
+
+#begin Incipisphere/Skaia/Dark Skaia.png
+/copy:Incipisphere/Skaia/Dark Skaia.png
+
+#begin Incipisphere/Skaia/KM3Rg.png
+/copy:Incipisphere/Skaia/KM3Rg.png
+
+#begin Incipisphere/Skaia/oIBZx.png
+/copy:Incipisphere/Skaia/oIBZx.png
+
+#begin Incipisphere/Skaia/Skaia.png
+/copy:Incipisphere/Skaia/Skaia.png
+
+#begin Incipisphere/Skaia/Void BK.png
+/copy:Incipisphere/Skaia/Void BK.png
+
+#begin Incipisphere/Skaia/Void WK.png
+/copy:Incipisphere/Skaia/Void WK.png
+
+#begin Incipisphere/Skaia/X70tl.png
+/copy:Incipisphere/Skaia/X70tl.png
+
+#begin Miscellaneous/Glow.png
+/copy:Miscellaneous/Glow.png
+
+#begin Miscellaneous/God Tier 1.png
+/copy:Miscellaneous/God Tier 1.png
+
+#begin Miscellaneous/God Tier 2.png
+/copy:Miscellaneous/God Tier 2.png
+
+#begin Miscellaneous/God Tier 3.png
+/copy:Miscellaneous/God Tier 3.png
+
+#begin Miscellaneous/God Tier 4.png
+/copy:Miscellaneous/God Tier 4.png
+
+#begin Miscellaneous/Inner Rim.png
+/copy:Miscellaneous/Inner Rim.png
+
+#begin Miscellaneous/Meteor.png
+/copy:Miscellaneous/Meteor.png
+
+#begin Miscellaneous/of Blood.png
+/copy:Miscellaneous/of Blood.png
+
+#begin Miscellaneous/of Breath.png
+/copy:Miscellaneous/of Breath.png
+
+#begin Miscellaneous/of Doom.png
+/copy:Miscellaneous/of Doom.png
+
+#begin Miscellaneous/of Heart.png
+/copy:Miscellaneous/of Heart.png
+
+#begin Miscellaneous/of Hope.png
+/copy:Miscellaneous/of Hope.png
+
+#begin Miscellaneous/of Life.png
+/copy:Miscellaneous/of Life.png
+
+#begin Miscellaneous/of Light.png
+/copy:Miscellaneous/of Light.png
+
+#begin Miscellaneous/of Mind.png
+/copy:Miscellaneous/of Mind.png
+
+#begin Miscellaneous/of Rage.png
+/copy:Miscellaneous/of Rage.png
+
+#begin Miscellaneous/of Space.png
+/copy:Miscellaneous/of Space.png
+
+#begin Miscellaneous/of Time.png
+/copy:Miscellaneous/of Time.png
+
+#begin Miscellaneous/of Void.png
+/copy:Miscellaneous/of Void.png
+
+#begin Miscellaneous/Outer Rim.png
+/copy:Miscellaneous/Outer Rim.png
+
+#begin Miscellaneous/shape191.png
+/copy:Miscellaneous/shape191.png
+
+#begin Miscellaneous/shape193.png
+/copy:Miscellaneous/shape193.png
+
+#begin Other Locations/A2 Alternia w Pink Moon.png
+/copy:Other Locations/A2 Alternia w Pink Moon.png
+
+#begin Other Locations/A2 Interloper.png
+/copy:Other Locations/A2 Interloper.png
+
+#begin Other Locations/B1 Earth w Moon.png
+/copy:Other Locations/B1 Earth w Moon.png
+
+#begin Other Locations/B1 Earth.png
+/copy:Other Locations/B1 Earth.png
+
+#begin UI/Blank Button.png
+/copy:UI/Blank Button.png
+
+#begin UI/Cursor.png
+/copy:UI/Cursor.png
+
+#begin UI/Description Box.png
+/copy:UI/Description Box.png
+
+#begin UI/Down Button.png
+/copy:UI/Down Button.png
+
+#begin UI/Enter Button.png
+/copy:UI/Enter Button.png
+
+#begin UI/Exit Button.png
+/copy:UI/Exit Button.png
+
+#begin UI/Guide Button.png
+/copy:UI/Guide Button.png
+
+#begin UI/Guide Screen.png
+/copy:UI/Guide Screen.png
+
+#begin UI/Left Button.png
+/copy:UI/Left Button.png
+
+#begin UI/Right Button.png
+/copy:UI/Right Button.png
+
+#begin UI/Scroll Bar.png
+/copy:UI/Scroll Bar.png
+
+#begin UI/Scroll Timeline Back.png
+/copy:UI/Scroll Timeline Back.png
+
+#begin UI/Scroll Timeline Forth.png
+/copy:UI/Scroll Timeline Forth.png
+
+#begin UI/Session.png
+/copy:UI/Session.png
+
+#begin UI/Timeline Key.png
+/copy:UI/Timeline Key.png
+
+#begin UI/Timeline Position Marker.png
+/copy:UI/Timeline Position Marker.png
+
+#begin UI/Timeline Scratch.png
+/copy:UI/Timeline Scratch.png
+
+#begin UI/Timeline.png
+/copy:UI/Timeline.png
+
+#begin UI/Title Text.png
+/copy:UI/Title Text.png
+
+#begin UI/Up Button.png
+/copy:UI/Up Button.png
+
+#begin XML Files/Constants/Derse Post Dave.xml
+/copy:XML Files/Constants/Derse Post Dave.xml
+
+#begin XML Files/Constants/Derse.xml
+/copy:XML Files/Constants/Derse.xml
+
+#begin XML Files/Constants/Prospit Post Jack.xml
+/copy:XML Files/Constants/Prospit Post Jack.xml
+
+#begin XML Files/Constants/Prospit.xml
+/copy:XML Files/Constants/Prospit.xml
+
+#begin XML Files/Constants/Skaia Genesis.xml
+/copy:XML Files/Constants/Skaia Genesis.xml
+
+#begin XML Files/Constants/Skaia P1.xml
+/copy:XML Files/Constants/Skaia P1.xml
+
+#begin XML Files/Constants/Skaia P2.xml
+/copy:XML Files/Constants/Skaia P2.xml
+
+#begin XML Files/Constants/Skaia P3 Impacted.xml
+/copy:XML Files/Constants/Skaia P3 Impacted.xml
+
+#begin XML Files/Constants/Skaia P3.xml
+/copy:XML Files/Constants/Skaia P3.xml
+
+#begin XML Files/Constants/Skaia P4 Detumored.xml
+/copy:XML Files/Constants/Skaia P4 Detumored.xml
+
+#begin XML Files/Constants/Skaia P4 Impacted.xml
+/copy:XML Files/Constants/Skaia P4 Impacted.xml
+
+#begin XML Files/Constants/Skaia P4.xml
+/copy:XML Files/Constants/Skaia P4.xml
+
+#begin XML Files/Constants/Skaia Void (Busted).xml
+/copy:XML Files/Constants/Skaia Void (Busted).xml
+
+#begin XML Files/Constants/Skaia Void.xml
+/copy:XML Files/Constants/Skaia Void.xml
+
+#begin XML Files/Lands/LOBAF.xml
+/copy:XML Files/Lands/LOBAF.xml
+
+#begin XML Files/Lands/LOCAH.xml
+/copy:XML Files/Lands/LOCAH.xml
+
+#begin XML Files/Lands/LOCAS.xml
+/copy:XML Files/Lands/LOCAS.xml
+
+#begin XML Files/Lands/LODAG.xml
+/copy:XML Files/Lands/LODAG.xml
+
+#begin XML Files/Lands/LOFAF.xml
+/copy:XML Files/Lands/LOFAF.xml
+
+#begin XML Files/Lands/LOHAC.xml
+/copy:XML Files/Lands/LOHAC.xml
+
+#begin XML Files/Lands/LOLAR.xml
+/copy:XML Files/Lands/LOLAR.xml
+
+#begin XML Files/Lands/LOLCAT.xml
+/copy:XML Files/Lands/LOLCAT.xml
+
+#begin XML Files/Lands/LOMAT.xml
+/copy:XML Files/Lands/LOMAT.xml
+
+#begin XML Files/Lands/LOMAX.xml
+/copy:XML Files/Lands/LOMAX.xml
+
+#begin XML Files/Lands/LOPAH.xml
+/copy:XML Files/Lands/LOPAH.xml
+
+#begin XML Files/Lands/LOPAN.xml
+/copy:XML Files/Lands/LOPAN.xml
+
+#begin XML Files/Lands/LOQAM.xml
+/copy:XML Files/Lands/LOQAM.xml
+
+#begin XML Files/Lands/LORAF.xml
+/copy:XML Files/Lands/LORAF.xml
+
+#begin XML Files/Lands/LOSAZ.xml
+/copy:XML Files/Lands/LOSAZ.xml
+
+#begin XML Files/Lands/LOTAF.xml
+/copy:XML Files/Lands/LOTAF.xml
+
+#begin XML Files/Lands/LOTAK.xml
+/copy:XML Files/Lands/LOTAK.xml
+
+#begin XML Files/Lands/LOTAM.xml
+/copy:XML Files/Lands/LOTAM.xml
+
+#begin XML Files/Lands/LOWAA.xml
+/copy:XML Files/Lands/LOWAA.xml
+
+#begin XML Files/Lands/LOWAS.xml
+/copy:XML Files/Lands/LOWAS.xml
+
+#begin XML Files/Meteors/A2 Ectobiology.xml
+/copy:XML Files/Meteors/A2 Ectobiology.xml
+
+#begin XML Files/Meteors/B1 Ectobiology.xml
+/copy:XML Files/Meteors/B1 Ectobiology.xml
+
+#begin XML Files/Meteors/Meteor 1.xml
+/copy:XML Files/Meteors/Meteor 1.xml
+
+#begin XML Files/Meteors/Meteor 2.xml
+/copy:XML Files/Meteors/Meteor 2.xml
+
+#begin XML Files/Meteors/Meteor 3.xml
+/copy:XML Files/Meteors/Meteor 3.xml
+
+#begin XML Files/Meteors/Meteor 4.xml
+/copy:XML Files/Meteors/Meteor 4.xml
+
+#begin XML Files/Meteors/Meteor 5.xml
+/copy:XML Files/Meteors/Meteor 5.xml
+
+#begin XML Files/Sessions/Oh god what.xml
+/copy:XML Files/Sessions/Oh god what.xml
+
+#begin XML Files/Sessions/Session A2.xml
+/copy:XML Files/Sessions/Session A2.xml
+
+#begin XML Files/Sessions/Session B1.xml
+/copy:XML Files/Sessions/Session B1.xml
+
+#begin XML Files/Sessions/Session B2.xml
+/copy:XML Files/Sessions/Session B2.xml
+
+#begin settings.txt
+/copy:settings.txt
+

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SessionLocationBuilder xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <IsVisible>true</IsVisible>
+  <CursorDetectRadius>14</CursorDetectRadius>
+  <Name>Derse</Name>
+  <Description>[Description]</Description>
+  <GateLevel>0</GateLevel>
+  <PlayerEntered>true</PlayerEntered>
+  <PrimaryColor X="75" Y="0" Z="130" W="255" />
+  <Image>
+    <ImagePath>.//Incipisphere//Prospit and Derse//B1 Derse.png</ImagePath>
+    <Position X="0" Y="12" Z="0" />
+    <Rotation />
+    <Scale X="5" Y="5" />
+    <Color X="255" Y="255" Z="255" W="255" />
+  </Image>
+</SessionLocationBuilder>

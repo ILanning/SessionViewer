@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SkaiaBuilder xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Battlefield>
+    <ImagePath>.//Incipisphere//Skaia//Battlefield Void.png</ImagePath>
+    <Position X="0" Y="8" Z="0" />
+    <Rotation />
+    <Scale X="10" Y="10" />
+    <Color X="255" Y="255" Z="255" W="255" />
+  </Battlefield>
+  <BasePlanet>
+    <Name>Skaia</Name>
+    <Description>[Description]</Description>
+    <GateLevel>0</GateLevel>
+    <PlayerEntered>true</PlayerEntered>
+    <PrimaryColor X="208" Y="241" Z="255" W="255" />
+    <SecondaryColor X="255" Y="255" Z="255" W="255" />
+    <Image>
+      <ImagePath>.//Incipisphere//Skaia//Skaia.png</ImagePath>
+      <Position X="0" Y="8" Z="0" />
+      <Rotation />
+      <Scale X="25" Y="25" />
+      <Color X="255" Y="255" Z="255" W="255" />
+    </Image>
+  </BasePlanet>
+</SkaiaBuilder>

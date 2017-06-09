@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PlanetBuilder xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>A2 Ectobiology</Name>
+  <Description>Ectobiology labs are laboratories located in one of the many asteroids in the Veil, and presumably exist in each session of Sburb. They are accessed through a number of transportalizers across the seperate Planets.  They contain everything needed to preform Ectobiology, including a Sburb computer terminal, as in unscratched sessions one player will have to take care of actually creating themselves and their teammates through ectobiology.</Description>
+  <GateLevel>0</GateLevel>
+  <PlayerName>Meteor</PlayerName>
+  <PlayerEntered>false</PlayerEntered>
+  <PrimaryColor>
+    <X>138</X>
+    <Y>138</Y>
+    <Z>138</Z>
+    <W>255</W>
+  </PrimaryColor>
+  <SecondaryColor>
+    <X>96</X>
+    <Y>96</Y>
+    <Z>96</Z>
+    <W>255</W>
+  </SecondaryColor>
+  <Image>
+    <ImagePath>.//Incipisphere//Other//A2 Ectobiology.png</ImagePath>
+    <Position>
+      <X>0</X>
+      <Y>0</Y>
+      <Z>0</Z>
+    </Position>
+    <Rotation>
+      <X>0</X>
+      <Y>0</Y>
+      <Z>0</Z>
+    </Rotation>
+    <Scale>
+      <X>4</X>
+      <Y>4</Y>
+    </Scale>
+    <Color>
+      <X>255</X>
+      <Y>255</Y>
+      <Z>255</Z>
+      <W>255</W>
+    </Color>
+  </Image>
+</PlanetBuilder>

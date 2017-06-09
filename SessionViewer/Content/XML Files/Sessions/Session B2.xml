@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SessionBuilder xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <NullSession>false</NullSession>
+  <VoidSession>true</VoidSession>
+  <Scratched>false</Scratched>
+  <Description>The Human SBURB Alpha session.</Description>
+  <Skaia>.//XML Files//Constants//Skaia Void.xml</Skaia>
+  <Prospit>.//XML Files//Constants//Prospit.xml</Prospit>
+  <Derse>.//XML Files//Constants//Derse.xml</Derse>
+  <Lands>
+    <string>.//XML Files//Lands//LOWAS.xml</string>
+    <string>.//XML Files//Lands//LOCAH.xml</string>
+    <string>.//XML Files//Lands//LOLAR.xml</string>
+    <string>.//XML Files//Lands//LOTAK.xml</string>
+    <string>.//XML Files//Lands//LOHAC.xml</string>
+    <string>.//XML Files//Lands//LOPAN.xml</string>
+    <string>.//XML Files//Lands//LOFAF.xml</string>
+    <string>.//XML Files//Lands//LOMAX.xml</string>
+  </Lands>
+  <GenericMeteors>
+	<string>.//XML Files//Meteors//Meteor 1.xml</string>
+	<string>.//XML Files//Meteors//Meteor 2.xml</string>
+	<string>.//XML Files//Meteors//Meteor 3.xml</string>
+	<string>.//XML Files//Meteors//Meteor 4.xml</string>
+	<string>.//XML Files//Meteors//Meteor 5.xml</string>
+  </GenericMeteors>
+  <SpecialMeteors>
+  </SpecialMeteors>
+  <Timeline>
+    <TimelineEvent>
+      <PlanetName>Land of Crypts and Helium</PlanetName>
+      <IsVisible>true</IsVisible>
+      <PlayerEntry>true</PlayerEntry>
+      <Message>Jane has entered the game.</Message>
+      <FilePath>.//XML Files//Constants//Skaia Void.xml</FilePath>
+    </TimelineEvent>
+    <TimelineEvent>
+      <PlanetName>Land of Pyramids and Neon</PlanetName>
+      <IsVisible>true</IsVisible>
+      <PlayerEntry>true</PlayerEntry>
+      <Message>Sawtooth has entered the game.</Message>
+      <FilePath>.//XML Files//Constants//Skaia Void.xml</FilePath>
+    </TimelineEvent>
+    <TimelineEvent>
+      <PlanetName>Land of Tombs and Krypton</PlanetName>
+      <IsVisible>true</IsVisible>
+      <PlayerEntry>true</PlayerEntry>
+      <Message>Squarewave has entered the game.</Message>
+      <FilePath>.//XML Files//Constants//Skaia Void.xml</FilePath>
+    </TimelineEvent>
+    <TimelineEvent>
+      <PlanetName>Land of Mounds and Xenon</PlanetName>
+      <IsVisible>true</IsVisible>
+      <PlayerEntry>true</PlayerEntry>
+      <Message>Jake, Dirk, Roxy, and Jane have entered the game.</Message>
+      <FilePath>.//XML Files//Constants//Skaia Void.xml</FilePath>
+    </TimelineEvent>
+    <TimelineEvent>
+      <PlanetName>Land of Light and Rain</PlanetName>
+      <IsVisible>true</IsVisible>
+      <PlayerEntry>true</PlayerEntry>
+      <Message>Rose has entered the game.</Message>
+      <FilePath>.//XML Files//Constants//Skaia Void.xml</FilePath>
+    </TimelineEvent>
+    <TimelineEvent>
+      <PlanetName>Land of Heat and Clockwork</PlanetName>
+      <IsVisible>true</IsVisible>
+      <PlayerEntry>true</PlayerEntry>
+      <Message>Dave has entered the game.</Message>
+      <FilePath>.//XML Files//Constants//Skaia Void.xml</FilePath>
+    </TimelineEvent>
+    <TimelineEvent>
+      <PlanetName>Land of Wind and Shade</PlanetName>
+      <IsVisible>true</IsVisible>
+      <PlayerEntry>true</PlayerEntry>
+      <Message>John has entered the game.</Message>
+      <FilePath>.//XML Files//Constants//Skaia Void.xml</FilePath>
+    </TimelineEvent>
+    <TimelineEvent>
+      <PlanetName>Land of Frost and Frogs</PlanetName>
+      <IsVisible>true</IsVisible>
+      <PlayerEntry>true</PlayerEntry>
+      <Message>Jade has entered the game.</Message>
+      <FilePath>.//XML Files//Constants//Skaia Void.xml</FilePath>
+    </TimelineEvent>
+  </Timeline>
+</SessionBuilder>

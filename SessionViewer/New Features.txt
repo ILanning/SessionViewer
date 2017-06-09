@@ -1,0 +1,23 @@
+New Features-
+    
+    Fix bug on Dad's computer
+
+    Better graphics
+    
+    Mac + Linux compatibility
+
+    UI (Manager/Factory)?
+      -Tracks UI Assets
+      -Helps UI dynamic asset generation
+      -Behavior easily changed via XML
+      -Usefully handles out of code UI modding
+      -Relates to Window Manager?
+
+    Improved invalid file error handling
+
+http://en.wikipedia.org/wiki/Magical_Diary
+http://store.steampowered.com/app/232950/
+
+Michael Hampton 38
+Andrew Loomis Drawing the Head Hands 56
+Code Complete 104

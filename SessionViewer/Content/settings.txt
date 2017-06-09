@@ -1,0 +1,4 @@
+RunInBackground = true
+WindowInitWidth = 800
+WindowInitHeight = 600
+CreateLogs = true

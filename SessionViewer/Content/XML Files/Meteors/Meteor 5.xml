@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GenericMeteorBuilder xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>Meteor 5</Name>
+  <Image>
+    <ImagePath>.//Incipisphere//Other//Meteor 5.png</ImagePath>
+    <Position />
+    <Rotation />
+    <Scale X="1.25" Y="1.25" />
+    <Color X="255" Y="255" Z="255" W="255" />
+  </Image>
+</GenericMeteorBuilder>
