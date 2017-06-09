@@ -82,7 +82,7 @@
     <Content Include="Session Viewer Equations.txt" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\..\CommonCode\CommonCode.csproj">
+    <ProjectReference Include="..\CommonCode\CommonCode.csproj">
       <Project>{2a484ad8-f3ed-4526-bc46-b4249f8af18a}</Project>
       <Name>CommonCode</Name>
     </ProjectReference>
